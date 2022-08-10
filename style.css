@@ -42,7 +42,7 @@ nav{
 .home{
     height: 100vh;
     width: 100%;
-    background-image: url(/images/bg-home.jpg);
+    background-image: url(images/bg-home.jpg);
     background-size: cover;
     color: white;
     background-attachment: fixed;
