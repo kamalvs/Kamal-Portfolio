@@ -41,6 +41,7 @@ nav{
     position: fixed;
     font-size: 20px;
     color: white;
+    z-index:1;
 }
 
 .home{
